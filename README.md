@@ -1,5 +1,10 @@
 ### Testes de carga e performance
 
+Quer executar direto no Katacoda sem precisar baixar/rodar nada em sua máquina?
+Basta acessar o link https://www.katacoda.com/tutagomes/scenarios/k6-postman
+
+Caso você prefire rodar tudo localmente...
+
 Para subir os serviços:
 ```bash
     docker-compose build
